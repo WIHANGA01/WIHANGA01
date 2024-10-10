@@ -9,6 +9,7 @@ https://github.com/user-attachments/assets/79837c5c-09fd-42aa-b18d-9467abf7526f
 
 - 🔭 I’m currently working on **whatsapp bot**
 <div align="center">
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/wihanga02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wihanga02" height="30" width="40" /></a>
